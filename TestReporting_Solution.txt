@@ -1,0 +1,1 @@
+Once the build has been created successfully then the plugin that we have used i.e. SureFire, generates a HTML report in target folder. The report generated in target folder can be placed on FTTP server and therefore making it usable for the whole development team. 
